@@ -45,14 +45,14 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
+global.sig = 'https://www.instagram.com/jonkristiansah.silaban'
 global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
+global.sgc = 'https://chat.whatsapp.com/E9f5AahDDYmJsCVAa3efN4'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://youtube.com/c/LeonGanz/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
+global.pdana = '089509158681'
 global.povo = '085608625102'
 global.pgopay = '085608625102'
 global.ppulsa = '085608625102'
@@ -60,10 +60,10 @@ global.ppulsa2 = '085608625102'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '6289509158681'
+global.nomorown = '6289509158681'
+global.namebot = 'Jon -Kris'
+global.nameown = 'kristian -Agung'
 
 
 /*============== STAFF ==============*/
