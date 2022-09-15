@@ -126,8 +126,8 @@ global.author = '                「 JONKRISTian - SLBN  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/nsTYRF6/Chitanda.jpg' //Main Thumbnail
-global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
+global.thumb = 'https://i.ibb.co/nsTYRF6/jonkristiansah.silaban_I_2022_Sep_09_12_31_10.jpg' //Main Thumbnail
+global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/20220520_194938.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -160,7 +160,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/jonkristiansah.silaban_I_2022_Sep_09_12_31_10.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
